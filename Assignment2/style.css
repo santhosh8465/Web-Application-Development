@@ -1,0 +1,41 @@
+.button1{
+
+background-color: Transparent;
+width: 60px;
+
+Color: maroon;
+
+height: 60px;
+
+font-size: 16px;
+
+border: none;
+
+}
+
+
+
+
+.Bigbutton{
+
+background-color: Transparent;
+
+width: 60px;
+
+height: 100px;
+
+font-size: 20px;
+
+border: none;
+}
+body {
+    Background-color: linen;
+}
+input[type="text"]
+{
+    background: transparent;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
