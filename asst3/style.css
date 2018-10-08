@@ -1,0 +1,28 @@
+
+   
+    
+	body {
+		background-color:rgba(127, 236, 255, 0.438);
+		color:black;
+		width:900px;
+        margin:0 auto;
+	}
+    
+	table {
+		background-color:rgb(112, 112, 112);
+		opacity:0.8;
+		filter: alpha(opacity=80);
+	 	border:2px solid black;
+	}
+	.button {
+		border-radius: 12px;
+		color: rgba(45, 54, 70, 0.774);
+		box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	}
+    td {
+        border: 1px solid #999;
+		padding: 0.5rem;
+		color: red;
+   }
+    input {text-align:left;}
+	h2 {font-size:24.0pt;}
